@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 city="Madurai is the famous temple city"
+=======
+city ="Chennai"
+>>>>>>> tp
