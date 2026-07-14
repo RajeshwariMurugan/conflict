@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 movie: Tamil
 =======
 <<<<<<< HEAD
@@ -7,3 +8,7 @@ movie: Bollywood moviess
 Movies: Bollywod movie bahubali
 >>>>>>> 0506f611b933c5abe6e6b4c0470cf3e7df50bdca
 >>>>>>> tp
+=======
+Movies: Bollywod movie bahubali
+movie: Tamil
+>>>>>>> eb66a259f9d9000403588b97298ee7756cb69107
