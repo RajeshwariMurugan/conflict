@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fruits="Apple" 
+=======
+fruits="Mango Grapes is my fav" 
+>>>>>>> tp
