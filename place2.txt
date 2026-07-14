@@ -1,2 +1,10 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+fruits="Apple" 
+=======
+fruits="Mango Grapes is my fav" 
+>>>>>>> tp
+=======
 fruits="Mango Grapes is my fav" 
 fruits="Apple" 
+>>>>>>> 37f8be5568023c0c1dedafed9acb08dba8d3b46a
